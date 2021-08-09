@@ -1,2 +1,2 @@
 # mux
-combine audio files and video files.
+combine an audio file and a video file together.
